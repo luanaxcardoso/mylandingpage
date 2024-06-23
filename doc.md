@@ -14,3 +14,7 @@ npm install next-themes
 
 npm install lucide-react@0.92.0
     (para o ícone)
+
+Para rodar a aplicação:
+npm run dev
+[]: # End    
