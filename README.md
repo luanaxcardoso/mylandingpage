@@ -1,4 +1,4 @@
-Configurando e Executando sua Aplicação Next.js com Shadcn UI
+## Configurando e Executando sua Aplicação Next.js com Shadcn UI
 
 1. Criar a Estrutura da Aplicação:
 Primeiro, certifique-se de que sua pasta de aplicação esteja pronta para receber o projeto.
