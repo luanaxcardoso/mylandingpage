@@ -18,10 +18,10 @@ export default function Home() {
       link: 'https://natural-flavor.vercel.app/',
     },
     {
-      title: 'Slides Food',
-      description: 'Desenvolvimento de um carrossel interativo de alimentos. Construído em JavaScript ',
+      title: 'Pepper & Honey',
+      description: 'Desenvolvimento de um menu interativo para um restaurante. Construído em JavaScript.',
       image: '/images/image3.jpg',
-      link: 'https://slides-blond.vercel.app/',
+      link: 'https://food-pepper-e-honey.vercel.app/',
     },
   ];
   return (
